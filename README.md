@@ -26,6 +26,7 @@ We currently support PostgreSQL as the database backend but this is not a hard d
 * [Django Ninja](https://django-ninja.rest-framework.com/)
 * [HTMX](https://htmx.org/)
 * [three.js](https://threejs.org/)
+* [SparkJS](https://sparkjs.dev/)
 
 ## Getting Started
 
